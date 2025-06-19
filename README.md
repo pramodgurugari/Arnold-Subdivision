@@ -4,6 +4,12 @@ Created by Pramod G | Version 1.2
 ![Arnold Subdivision](https://github.com/user-attachments/assets/575b30c9-d8af-43df-a9b1-2349088e8737)
 
 
+
+https://github.com/user-attachments/assets/79e7f10c-b6be-4097-b83c-cee3c6b2ff0f
+
+
+
+
 This is a custom UI tool for Autodesk Maya that enables non-destructive, artist-friendly subdivision control for Arnold renderer. Designed to work seamlessly across Maya versions, the tool allows artists to efficiently apply or auto-assign subdivision settings on selected meshes or the entire scene.
 
 🎯 Key Features:
@@ -24,9 +30,6 @@ Selected objects
 All scene meshes
 
 Auto mode (smart decision-making based on geometry complexity)
-
-🎨 Modern Dark UI
-A clean, artist-focused interface built with PySide (compatible with PySide2, PySide6, and PySide1).
 
 ✅ Robust Attribute Handling
 Checks and adds aiSubdivType and aiSubdivIterations if missing, ensuring compatibility with Arnold rendering pipeline.
